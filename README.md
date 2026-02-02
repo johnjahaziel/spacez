@@ -1,16 +1,29 @@
-# spacez
+# Spacez
 
-A new Flutter project.
+<img width="414" height="877" alt="Screenshot 2026-02-02 220828" src="https://github.com/user-attachments/assets/e62897b7-7b62-4f53-b0fd-1435dcf9d9e3" />
 
-## Getting Started
+# 📱 Spacez App (Flutter)
 
-This project is a starting point for a Flutter application.
+A Flutter-based mobile application focused on clean UI, responsive layouts, and smooth user experience.  
+This project follows best practices for scalable Flutter development.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Responsive UI using custom `SizeConfig`
+- Clean and modular widget structure
+- Reusable components
+- Optimized layouts (no overflow issues)
+- Android & iOS support
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- Material Design
+- Custom styling & theme management
+
+---
