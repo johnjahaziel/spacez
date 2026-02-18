@@ -16,7 +16,7 @@ Padding(
           Text(
             "<${widget.data.property.maxOccupancy} Guests",
             style: inventoryStyle,
-          ),
+          ),     
         ],
       ),
       
