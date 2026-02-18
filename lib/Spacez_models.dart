@@ -6,10 +6,12 @@ Padding(
     mainAxisSize: MainAxisSize.max,
     mainAxisAlignment: MainAxisAlignment.spaceBetween,
     children: [
+      asdaowdqwpdoqkwdp ok asd
       Row(
         children: [
           SvgPicture.asset(
             "assets/svg/guests.svg",
+            asdaksdasdawdqwopd qwoksdp qwd
             height: 20,
           ),
           4.hs(),
